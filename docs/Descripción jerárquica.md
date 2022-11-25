@@ -8,6 +8,9 @@
     ![UML_Quimbamba](UML__Quimbamba-Actualizado.png)
 
 * ### <b> Codigo del UML </b>
+    
+    [UML_Quimbamba](https://github.com/HamedPro3D/Quimbamba/blob/2d8ebe6767adf98cd243e40e00320922bc6078ff/UML/diagrama_UML.puml)
+    
 <pre>
     @startuml Quimbamba
     Title Diagrama UML de Quimbamba
